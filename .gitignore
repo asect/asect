@@ -16,3 +16,17 @@ dist/
 __pycache__/
 *.pyc
 .env
+.env.*
+*.env
+
+# API Keys & Secrets
+*api_key*
+*apikey*
+*api-keys*
+*secret*
+*token*
+*.pem
+*.key
+credentials.json
+secrets.json
+config.local.*
